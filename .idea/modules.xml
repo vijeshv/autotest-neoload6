@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/autotest-neoload4.iml" filepath="$PROJECT_DIR$/.idea/autotest-neoload4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotest-neoload/autotest-skeleton.iml" filepath="$PROJECT_DIR$/autotest-neoload/autotest-skeleton.iml" />
+    </modules>
+  </component>
+</project>
